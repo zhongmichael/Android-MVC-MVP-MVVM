@@ -1,6 +1,4 @@
 # Android-MVC-MVP-MVVM
-MVC MVP MVVM 
-#  MVC/MVP/MVVM
 
 ## 前言
 
